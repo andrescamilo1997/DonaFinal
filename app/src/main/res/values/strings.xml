@@ -1,16 +1,16 @@
 <resources>
     <string name="app_name">Dona</string>
     <string name="all">TODO</string>
-    <string name="name">xxxxxxxxxxxxxxxx</string>
-    <string name="date">2 de marzo de 2020</string>
+    <string name="name">NOMBRE</string>
+    <string name="date">2021</string>
     <string name="title_activity_main">Tienda de Donas</string>
-    <string name="subtitle_activity_main">2020</string>
-    <string name="title_activity_add">Nuevo videojuego</string>
-    <string name="title_activity_edit">Datos del </string>
+    <string name="subtitle_activity_main">Mictic2022</string>
+    <string name="title_activity_add">Nuevo Producto</string>
+    <string name="title_activity_edit">Datos del Producto </string>
     <string name="name_form">Nombre</string>
     <string name="date_form">Precio</string>
     <string name="url_form">Url imagen</string>
     <string name="description_form">Descripción</string>
     <string name="save">Guardar</string>
-    <string name="description">Final Fantasy es una franquicia de medios creada por Hironobu Sakaguchi y desarrollada por Square Enix. La franquicia se centra en una serie de fantasía y ciencia ficción de videojuegos RPG.</string>
+    <string name="description">XXXXX</string>
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFFFF"
+    android:background="@drawable/fondo"
     tools:context=".MainActivity">
 
     <RelativeLayout
@@ -31,7 +31,7 @@
             android:text="@string/title_activity_main"
             android:fontFamily="sans-serif"
             android:textColor="@color/white"
-            android:textSize="24sp" />
+            android:textSize="30sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -44,8 +44,8 @@
             android:layout_marginLeft="24dp"
             android:layout_marginTop="4dp"
             android:layout_marginBottom="24dp"
-            android:text="@string/subtitle_activity_main"
             android:fontFamily="sans-serif"
+            android:text="@string/subtitle_activity_main"
             android:textColor="@color/text_light"
             android:textSize="20sp" />
 
