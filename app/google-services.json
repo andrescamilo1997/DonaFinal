@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027906582696",
+    "firebase_url": "https://donasplash-default-rtdb.firebaseio.com",
+    "project_id": "donasplash",
+    "storage_bucket": "donasplash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027906582696:android:fff768ff99a098cba76a9d",
+        "android_client_info": {
+          "package_name": "com.MisionTic.DonaCrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027906582696-83tvtdr657vchol05v7eq9i5avrjnatg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPQpGhSDozI_1g4n9PKjilRRmjEIR3t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027906582696-83tvtdr657vchol05v7eq9i5avrjnatg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
